@@ -22,4 +22,4 @@
 
 ##### Check out the below link to know more about me:
 
-[LinkedIn](http://https://www.linkedin.com/in/nakibulhasan2711/ "LinkedIn"), [stackoverflow](http://https://stackoverflow.com/users/7992262/md-nakibul-hassan?tab=profile "stackoverflow"), [Facebook](http://https://www.facebook.com/naim.hasan.2711 "Facebook")
+[LinkedIn](https://www.linkedin.com/in/nakibulhasan2711/ "LinkedIn"), [stackoverflow](https://stackoverflow.com/users/7992262/md-nakibul-hassan?tab=profile "stackoverflow"), [Facebook](https://www.facebook.com/naim.hasan.2711 "Facebook")
