@@ -1,17 +1,19 @@
 ### Hi there 👋
+####Glad to see you here! 🤩
 
-<!--
-**naimhasan2711/naimhasan2711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#####   I am Md Nakibul Hassan and I am a Software Developer.
 
-Here are some ideas to get you started:
+##### Experienced in: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am Md Nakibul Hassan and I am a self tought Software Developer. Previously experienced in Compettitive programming, Native Android App Development and Wordpress Theme Customization. I am currently learning Deep Learning from various online platform like Coursera and Udacity. I am very much passionate in programming and problem solving. Currently looking for job oppourtuniy in foreign environment in a Software Development post.
+-  Android App Development
+-  Wordpress Development
+-  Compettitive Programming
+
+#####Currently Working On:
+
+- Django
+- React
+
+#####  Check out the below link to know more about me:
+
+[LinkedIn](http://https://www.linkedin.com/in/nakibulhasan2711/ "LinkedIn"), [stackoverflow](http://https://stackoverflow.com/users/7992262/md-nakibul-hassan?tab=profile "stackoverflow"), [Facebook](http://https://www.facebook.com/naim.hasan.2711 "Facebook")
