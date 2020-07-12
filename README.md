@@ -15,7 +15,7 @@
 -  Python
 -  JavaScript
 
-##### Currently Working On:
+##### Currently Learning:
 
 - Django
 - React
