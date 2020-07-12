@@ -9,6 +9,12 @@
 -  Wordpress Development
 -  Compettitive Programming
 
+#### Programming Language:
+-  C/C++
+-  Java
+-  Python
+-  JavaScript
+
 ##### Currently Working On:
 
 - Django
