@@ -36,4 +36,15 @@ I am Md Nakibul Hassan from Bangladesh. I am a Computer Science Graduate and a s
 |---|---|---|
 
 
+<h3 align="center"> Other Accounts 📫 </h3>
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/nakibulhasan2711/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/7992262/md-nakibul-hassan?tab=profile"><img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/nakibhasan2711"><img src="https://img.shields.io/badge/hackerrank-%100077B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=naimhasan2711&&show_icons=true&theme=radical&line_height=27&v=5" alt="Nakibuls's GitHub Stats" />
