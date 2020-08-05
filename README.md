@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-I am Md Nakibul Hassan from Bangladesh.
+I am Md Nakibul Hassan from Bangladesh. I am a Computer Science Graduate and a self thought Software Developer having experience in Android Development and Worpdress Development. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=naimhasan2711&&show_icons=true&theme=radical&line_height=27&v=5" alt="Nakibuls's GitHub Stats" />
+
+### 💡 Goals for 2020
+- Complete #100DaysOfCode challenge
+- Build 30+ projects 
+- Become skilled in JavaScript, Django, React
+
 
 
 
