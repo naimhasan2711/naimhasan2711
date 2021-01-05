@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am Md Nakibul Hassan from Bangladesh. I am a Computer Science Graduate and a self thought Software Developer having experience in Android Development and Worpdress Development. 
+I am Md Nakibul Hassan from Bangladesh. I am a Computer Science Graduate and a self thought Software Developer having experience in Android Development and Worpdress Development. Currently trying to become expert in JavaScript programming langugae and its frameworks. 
 
 
 ### 💡 Goals for 2020
 - Complete #100DaysOfCode challenge
-- Build 30+ projects 
-- Become skilled in JavaScript, Django, React, Flutter
+- Build 50+ projects 
+- Become skilled in JavaScript, React, Vue and Django.
 
 
 
