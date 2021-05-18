@@ -6,7 +6,7 @@ I am Md Nakibul Hassan from Bangladesh. I am a Computer Science Graduate and a s
 ### 💡 Goals for 2021
 - Complete #100DaysOfCode challenge
 - Build 50+ projects 
-- Become skilled in JavaScript, React, Vue and Django.
+- Become skilled in JavaScript, React, Node, MongoDB and Express.
 
 
 
