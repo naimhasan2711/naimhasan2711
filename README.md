@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Md Nakibul Hassan from Bangladesh. I am a Computer Science Graduate and a self thought Software Developer having experience in Android Development and Competitive programming. Currently trying to become expert in JavaScript programming language and its frameworks. 
+I am Md Nakibul Hassan from Bangladesh. I am a CSE Graduate and currently working as a Software Engineer. My development area is mobile apps develpment.
 
 
 ### 💡 Goals for 2022
