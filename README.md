@@ -27,7 +27,7 @@ I am Md Nakibul Hassan from Bangladesh. I am a Computer Science Graduate and a s
 
 - Know/Using
 
- [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/androidstudio.png" alt="vscode logo" width="24">](https://code.androidstudio.com/) |[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/) | Windows Terminal | many more...
+ [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/android-studio.png" alt="vscode logo" width="24">](https://code.android-studio.com/) |[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/) | Windows Terminal | many more...
 |---|---|---|---|---|---|
 
 - Learning
