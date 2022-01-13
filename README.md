@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Md Nakibul Hassan from Bangladesh. I am a CSE Graduate and currently working as a Software Engineer. My development area is mobile apps develpment.
+I am Md Nakibul Hassan from Bangladesh. I am a CSE Graduate and currently working as a Software Engineer. My development area is mobile applicatin develpment.
 
 
 ### 💡 Goals for 2022
