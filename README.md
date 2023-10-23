@@ -3,7 +3,7 @@
 I am Md Nakibul Hassan from Bangladesh. I am a CSE Graduate and currently working as a Software Engineer. My development area is mobile applicatin develpment.
 
 
-### 💡 Goals for 2022
+### 💡 Goals for 2023
 - Complete #100DaysOfCode challenge
 - Build 50+ projects 
 - Become skilled in Java, Kotlin, Android and other moile app development related technologies.
