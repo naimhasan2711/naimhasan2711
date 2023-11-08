@@ -7,6 +7,8 @@ I am Md Nakibul Hassan from Bangladesh. I am a CSE Graduate and currently workin
 - Complete #100DaysOfCode challenge
 - Build 50+ projects 
 - Become skilled in Java, Kotlin, Android and other moile app development related technologies.
+- Become skilled in Android Jetpack Compose
+- Learn React Three Fiber 
 
 
 
